@@ -1,0 +1,20 @@
+{
+  "name": "forkify_proyecto-final-modulo-3",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Martin Garcia Rodriguez",
+  "type": "commonjs",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.2",
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "fracty": "^1.0.12"
+  }
+}
